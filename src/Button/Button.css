@@ -1,0 +1,12 @@
+.btn {
+  display: flex;
+  gap: 12px;
+}
+/* .btn button {
+  all: unset;
+  cursor: pointer;
+}
+
+.btn button:focus {
+  outline: orange 5px auto;
+} */
